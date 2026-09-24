@@ -68,7 +68,7 @@ ansible-playbook -i inventory/mycluster/inventory.ini --become --become-user=roo
 
 Проверяем сервис etcd и служебные поды
 
-![Etcd + calico](https://github.com/deadwhitepunk/hw-k8s-09/blob/main/img/etcd_calico.png)
+![Etcd + calico](https://github.com/deadwhitepunk/hw-k8s-09/blob/main/img/etcd+calico.png)
 
 ## Дополнительные задания (со звёздочкой)
 
