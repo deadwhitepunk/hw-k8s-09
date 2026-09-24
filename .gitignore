@@ -1,0 +1,4 @@
+*.terraform*
+cloud-init.yml
+*.tfstate*
+provider.tf
